@@ -2,4 +2,5 @@
 Smart Waste Management System For Metropolitan Cities
 My project link - Sakthikiran
 My project link - swetha1310
+My project link - jerutae
 
